@@ -52,6 +52,8 @@ Thank you for your cooperation and continued support towards SAIKYO KAKUMEI.
 ================================================================================================
 
 CHANGELOG:
+Ver. Kαkumei [2025-06-26]:
+- the blood clot in my brain has moved to my leg
 
 Ver. Kαkumei [2025-06-24]:
 - Procrastination
