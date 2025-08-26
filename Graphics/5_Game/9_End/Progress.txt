@@ -1,0 +1,24 @@
+lazy to do ai
+AI_Lose
+AI_Win
+AI_Win_FullCombo
+AI_Win_Perfect
+
+DFC clear and fail done
+AllPerfect
+Clear
+ClearFailed
+FullCombo
+
+Dan_Fail
+Dan_Gold_FullCombo
+Dan_Gold_Pass
+Dan_Gold_Perfect
+Dan_Red_FullCombo
+Dan_Red_Pass
+Dan_Red_Perfect
+
+Tower_Dropout
+Tower_TopReached_FullCombo
+Tower_TopReached_Pass
+Tower_TopReached_Perfect

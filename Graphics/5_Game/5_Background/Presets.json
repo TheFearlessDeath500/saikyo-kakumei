@@ -1,0 +1,51 @@
+{
+    "Regular": {
+        "": {
+            "UP": [ "0","1" ],
+            "DOWN": [ "0","1" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "0" ],
+            "RUNNER": [ "0" ]
+        },
+        "Dashy": {
+            "UP": [ "8" ],
+            "DOWN": [ "8" ],
+            "DANCER": [ "Dashy" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "0" ],
+            "RUNNER": [ "0" ]
+        }
+    },
+    "Dan": {
+      "Summer": {
+        "UP": [ "0" ]
+      },
+      "Fall": {
+        "UP": [ "0" ]
+      },
+      "Winter": {
+        "UP": [ "0" ]
+      },
+      "Spring": {
+        "UP": [ "0" ]
+      }
+    },
+  "Tower": {
+    "": {
+      "DOWN": [ "Day", "Sunset", "Mountain" ]
+    },
+    "Day": {
+      "DOWN": [ "Day" ]
+    },
+    "Sunset": {
+      "DOWN": [ "Sunset" ]
+    },
+    "Mountain": {
+      "DOWN": [ "Mountain" ]
+    },
+    "Event": {
+      "DOWN": [ "Event" ]
+    }
+  }
+}
