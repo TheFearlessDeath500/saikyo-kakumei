@@ -1,3 +1,17 @@
+`最強革命 ～SAIKYO KAKUMEI～`
+Ver. Kαkumei
+
+## THIS SKIN IS NOT PART OF A BUNDLE WITH OPENTAIKO. IF YOU HAVE PAID FOR THIS SKIN, YOU HAVE BEEN SCAMMED. DEMAND YOUR MONEY BACK IMMEDIATELY.
+By choosing to use SAIKYO KAKUMEI, you agree to the following terms:
+- Re-distribution, without permission of any form, is prohibited. Contact me for re-distribution.
+- You are allowed to remix the soundtrack of SAIKYO KAKUMEI, as long as you contact me first.
+
+SAIKYO KAKUMEI will, and always will remain free, and is made for the community to enjoy in mind.
+
+While SAIKYO KAKUMEI is built for veteran players, the skin also uses Open-World Memories V1 (this will be abbreviated as OWMV1 to avoid confusion) as a base. Certain graphics from the aforementioned skin may have enhanced versions of existing artwork that aren't normally seen in the regular release of OWMV1. The creator, DashyDesu, has understood and accepted distribution of these assets to be used in SAIKYO KAKUMEI.
+The skin is still in an alpha testing ground, hence the version name being Ver. Kαkumei. As such, some of the assets seen here may not represent the final product. Please do NOT complain to me for unfinished features. I am someone who regularly procrastinates and it takes a lot of time for me to actually know what I'm doing half the time.
+
+================================================================================================
 OpenTaiko Extended License
 
 Copyright (c) 2023 DashyDesu, OpenTaiko Team
@@ -13,22 +27,6 @@ Additionally, the OpenTaiko Extended License forbids the following usages:
 - Any usage not related to OpenTaiko (for example, adapting any of the assets for a different game) without written permission from the copyright holders
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the assets.
-
-================================================================================================
-
-`最強革命 ～SAIKYO KAKUMEI～`
-Ver. Kαkumei
-
-## THIS SKIN IS NOT PART OF A BUNDLE WITH OPENTAIKO. IF YOU HAVE PAID FOR THIS SKIN, YOU HAVE BEEN SCAMMED. DEMAND YOUR MONEY BACK IMMEDIATELY.
-By choosing to use SAIKYO KAKUMEI, you agree to the following terms:
-- Re-distribution, without permission of any form, is prohibited. Contact me for re-distribution.
-- You are allowed to remix the soundtrack of SAIKYO KAKUMEI, as long as you contact me first.
-
-SAIKYO KAKUMEI will, and always will remain free, and is made for the community to enjoy in mind.
-
-While SAIKYO KAKUMEI is built for veteran players, the skin also uses Open-World Memories V1 (this will be abbreviated as OWMV1 to avoid confusion) as a base. Certain graphics from the aforementioned skin may have enhanced versions of existing artwork that aren't normally seen in the regular release of OWMV1. The creator, DashyDesu, has understood and accepted distribution of these assets to be used in SAIKYO KAKUMEI.
-The skin is still in an alpha testing ground, hence the version name being Ver. Kαkumei. As such, some of the assets seen here may not represent the final product. Please do NOT complain to me for unfinished features. I am someone who regularly procrastinates and it takes a lot of time for me to actually know what I'm doing half the time.
-
 ================================================================================================
 
 LICENSES AND TERMS OF SERVICE:
@@ -37,11 +35,10 @@ THE SKIN ITSELF IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY
 AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE
 FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH OPENTAIKO OR THE
 USE OR OTHER DEALINGS IN THE SKIN.
 
 Full resolution Open-World Memories (Chapter I to V) assets courtesy of DashyDesu, and is used with permission from the artist.
-Project OutFox and its subsidiaries are a trademark of the OutFox Team. All assets have been verified to ensure that there is nothing out of place.
 For more art like this, please visit @dashydesu on X (Twitter), Bluesky, or Discord.
 
 Any and all font licenses are to be found in the Licenses folder. Any mention of copyrighted content that you wish to remove should be done by either of the two methods:
