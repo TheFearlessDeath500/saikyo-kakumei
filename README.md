@@ -2,7 +2,7 @@
 Ver. Kαkumei
 
 ## THIS SKIN IS NOT PART OF A BUNDLE WITH OPENTAIKO. IF YOU HAVE PAID FOR THIS SKIN, YOU HAVE BEEN SCAMMED. DEMAND YOUR MONEY BACK IMMEDIATELY.
-## SKIN ONLY WORKS ON VERSIONS 0.6.0.XX, AND NOT ON 0.6.1!
+## SKIN ONLY WORKS ON VERSIONS 0.6.0.XXX, AND NOT ON 0.6.1!
 By choosing to use SAIKYO KAKUMEI, you agree to the following terms:
 - Re-distribution of the skin on any given website or source, without permission of any form, is prohibited. Contact me for re-distribution.
 - You are allowed to remix the soundtrack of SAIKYO KAKUMEI, as long as you contact me first.
